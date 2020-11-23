@@ -6,7 +6,7 @@ My name is Ted, and I'm a former Naval officer who is learning to code. Leading 
 
 - 💬 Ask me about: my time in the Navy! I love to share sea-stories and I find that a lot of them are still powerful leadership lessons for me ten years later.
 
-- 📫 How to reach me: ted.mccormick@gmail.com OR same @protonmail.com, for the security conscious.
+- 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my nickname.mylastname@gmail.com OR same @protonmail.com, for the security conscious.
 
 - 😄 Pronouns: he/him/his
 
