@@ -10,7 +10,7 @@ My name is Ted, and I'm a former Naval officer who is learning to code. Leading 
 
 - 😄 Pronouns: he/him/his
 
-- ⚡ Fun fact: I grew up in a town of 7,000 in the middle of nowhere Missouri, and when I was in 7th grade, my World History textbook had the mask of King Tut on the cover. When I was 25, and a Lieutenant (j.g.) in the Navy, during a port call in Cairo, Egypt, I got to stand in front of that same mask and look into it's eyes. It was a pretty cool moment.
+- ⚡ Fun fact: I grew up in a town of 7,000 in the middle of nowhere Missouri, and when I was in 7th grade, my World History textbook had the mask of King Tut on the cover. When I was 25, and a Lieutenant (j.g.) in the Navy, during a port call in Cairo, Egypt, I got to stand in front of that same mask and look into its eyes. It was a pretty cool moment.
 
 [![Edward's github stats](https://github-readme-stats.vercel.app/api?username=edwardmccormick)](https://github.com/edwardmccormick/github-readme-stats)
 
