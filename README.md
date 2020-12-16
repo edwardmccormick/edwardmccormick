@@ -12,7 +12,8 @@ My name is Ted, and I'm a former Naval officer who is learning to code. Leading 
 
 - ⚡ Fun fact: I grew up in a town of 7,000 in the middle of nowhere Missouri, and when I was in 7th grade, my World History textbook had the mask of King Tut on the cover. When I was 25, and a Lieutenant (j.g.) in the Navy, during a port call in Cairo, Egypt, I got to stand in front of that same mask and look into its eyes. It was a pretty cool moment.
 
-[![Edward's github stats](https://github-readme-stats.vercel.app/api?username=edwardmccormick)](https://github.com/edwardmccormick/github-readme-stats)
+[![Ted's github stats](https://github-readme-stats.vercel.app/api?username=edwardmccormick&show_icons=true)](https://github.com/edwardmccormick/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edwardmccormick) 
 
 <!--
 **edwardmccormick/edwardmccormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
