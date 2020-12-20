@@ -16,8 +16,6 @@ My name is Ted, and I'm a former Naval officer who is learning to code. Leading 
 
 ![Ted's github stats](https://github-readme-stats.vercel.app/api?username=edwardmccormick&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=edwardmccormick)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmccormick&layout=compact)
 
 <!--
