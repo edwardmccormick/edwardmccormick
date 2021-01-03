@@ -6,7 +6,7 @@ My name is Ted, and I'm a former Naval officer who is learning to code. Leading 
 
 - 💬 Ask me about: my time in the Navy! I love to share sea-stories. I'm also getting pretty handy with Javascript - if you have a front-end piece to your project (or want to explore creating one) let's talk!
 
-- 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! Repo is private for now - but once it's in a borderline passable shape I'll share it.
+- 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! https://github.com/edwardmccormick/d-and-deasy It's in pretty rough shape right now - but you can roll for your stats, or point buy (without error checking), and skills are *so close* to being implemented correctly. There's a lot of styling and informational text that's missing, too. And backgrounds! And equipment! Okay it's not that close really. ;)
 
 - 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my nickname.mylastname@gmail.com OR same @protonmail.com, for the security conscious.
 
