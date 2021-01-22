@@ -2,7 +2,7 @@
 
 My name is Ted, and I'm a former Naval officer who is learning to code. Leading people (and numbers) I've done; getting code to fly right is new to me. But every day is another step in the right direction.
 
-- 🌱 I’m currently learning the LAMP stack - although actually, I'm really learning the front-end of the stack right now (HTML, CSS, JavaScript) with the back-end in the new year.
+- 🌱 I’m currently learning Java - more to come with PhP, Spring, and some MySQL.
 
 - 💬 Ask me about: my time in the Navy! I love to share sea-stories. I'm also getting pretty handy with Javascript - if you have a front-end piece to your project (or want to explore creating one) let's talk!
 
