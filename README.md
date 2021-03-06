@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
 
-- 🌱 I’m currently learning Java - more to come with PhP, Spring, and some MySQL.
+- 🌱 I’m currently learning Java - more to come, Spring. I can finally (most of the time) get a Tomcat server to do what it's supposed to.
 
 - 💬 Ask me about: my time in the Navy! I love to share sea-stories. I'm also getting pretty handy with Javascript - if you have a front-end piece to your project (or want to explore creating one) let's talk!
 
