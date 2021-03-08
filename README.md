@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
 
-- 🌱 I’m currently learning Java - more to come, Spring. I can finally (most of the time) get a Tomcat server to do what it's supposed to.
+- 🌱 I’m currently learning Java - JSP, and Spring. Send help!
 
-- 💬 Ask me about: my time in the Navy! I love to share sea-stories. I'm also getting pretty handy with Javascript - if you have a front-end piece to your project (or want to explore creating one) let's talk!
+- 💬 I'm pretty handy with Javascript - if you have a front-end piece to your project (or want to explore creating one) let's talk! I'm almost at the point where I can integrate front and backend designs too - if you have an interesting design (and a willingness to handle hosting) let me know - I'm looking to expand my portfolio.
 
 - 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! https://github.com/edwardmccormick/d-and-deasy It's in pretty rough shape right now - check the Readme to see where I'm currently at!
 
