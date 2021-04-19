@@ -12,6 +12,8 @@
 
 - 💬 Ask me about...pretty much anything you see here? I'm no guru, but I'm happy to help with JavaScript, Java, and any of the frameworks I've had some experience with (Bootstrap, JQuery, React, Springboot).
 
+- 🔒 I would love to work with someone to build and understand a 2FA method - I use it all the time but don't know how to build it yet.
+
 - 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! https://github.com/edwardmccormick/d-and-deasy It's in pretty rough shape as a single-page app right now, but I'm going to take it full stack shortly (think May-ish) and see what it looks like.
 
 - 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my nickname.mylastname@gmail.com OR same @protonmail.com, for the security conscious.
