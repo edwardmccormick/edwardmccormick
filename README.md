@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
 
-- 🌱 I’m currently learning Python and Django, and after that PHP and Laravel. All the backends! 
+- 🌱 I've got a list and it's quite long and distinguished: React, Angular, Python and Django, PHP and Laravel, then C# and .Net. Probably Tailwind, too, to finally escape my beloved Bootstrap.
 
 - 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. I am pretty strong with functional JavaScript but I'm working on my 'designer eye', but if you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
 
