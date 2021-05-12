@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">I'm a former Naval officer who is learning to code. Leading people (and numbers) I've done; getting code to fly right is new to me. But every day is another step in the right direction.</h3>
+<h3 align="center">I'm a former Naval officer who learned to code. I'm still learning, but I learned, too. 😄 Hire me to help your team build, and to help build your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
