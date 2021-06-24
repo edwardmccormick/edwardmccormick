@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">I'm a former Naval officer and software developer. Hire me to help your team build, and to help build your team.</h3>
+<h3 align="center">I'm a former Naval officer and now a software developer. Hire me to help your team build, and to help build your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
