@@ -44,7 +44,7 @@
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardmccormick&show_icons=true&locale=en&layout=compact" alt="edwardmccormick" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardmccormick&show_icons=true&locale=en&langs_count=10" alt="edwardmccormick" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardmccormick&show_icons=true&locale=en" alt="edwardmccormick" /></p>
 
