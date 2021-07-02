@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">I'm a former Naval officer and now a software developer. Hire me to help your team build, and to help build your team.</h3>
+<h3 align="center">I'm a software developer and former Naval officer. Hire me to help your team build, and to help build your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
 
-- 🌱 I've got a list and it's quite long and distinguished: React, Angular, Python and Django, PHP and Laravel, then C# and .Net. Probably Tailwind, too, to finally escape my beloved Bootstrap.
+- 🌱 I've got a list and it's quite long and distinguished: React, Angular, Python and Django, PHP and Laravel. Probably Tailwind, too, to finally escape my beloved Bootstrap.
 
-- 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. I am pretty strong with functional JavaScript but I'm working on my 'designer eye', but if you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
+- 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. If you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
 
 - 💬 Ask me about...pretty much anything you see here? I'm no guru, but I'm happy to help with JavaScript, Java, and any of the frameworks I've had some experience with (Bootstrap, JQuery, React, Springboot).
 
