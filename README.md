@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">I'm a software developer and former Naval officer. Hire me to help your team build, and to help build your team.</h3>
+<h3 align="center">I'm a software developer and former Naval officer, currently working as a DevOps Engineer at SWBC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
 
-- 🌱 I've got a list and it's quite long and distinguished: Python and Django, C# and .Net/asp.net, PHP and Laravel. Probably Tailwind, too, to finally escape my beloved Bootstrap. Eventually, React and Angular, as well.
+- 🌱 I've got a list and it's quite long and distinguished: Python and Django, C# and .Net/asp.net, PHP and Laravel, and a little Node.js for good measure. I'm also spinning up on Docker/Jenkins/Azure/AWS - slowly but surely it's all coming together! Probably Tailwind, too, to finally escape my beloved Bootstrap. Eventually, React and Angular, as well.
 
 - 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. If you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
 
@@ -42,7 +42,14 @@
   <a href="https://www.thymeleaf.org/" target="_blank"> <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" alt="thymeleaf" width="40" height ="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwardmccormick&show_icons=true&locale=en&langs_count=10" alt="edwardmccormick" /></p>
 
