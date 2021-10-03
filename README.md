@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
-<!-- 
-- 🌱 I've got a list and it's quite long and distinguished: Python and Django, C# and .Net/asp.net, PHP and Laravel, and a little Node.js for good measure. I'm also spinning up on DEVOPS/Docker/AWS - slowly but surely it's all coming together! -->
+- 🌱 I'm currently learning: Python and Django, C# and .Net/asp.net, Powershell (or as I call it, C--), and a little Node.js for good measure.
 
-<!-- - 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. If you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
--->
+- 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. If you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
+
 - 💬 Ask me about...pretty much anything you see here? I'm no guru, but I'm happy to help with JavaScript, Java, and any of the frameworks I've had some experience with (Bootstrap, JQuery, React, Springboot).
 
 - 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! https://github.com/edwardmccormick/d-and-deasy It's in pretty rough shape as a single-page app right now, but I'm going to take it full stack shortly and see what it looks like.
