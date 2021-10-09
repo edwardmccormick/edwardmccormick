@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! https://github.com/edwardmccormick/d-and-deasy It's in pretty rough shape as a single-page app right now, but I'm going to take it full stack shortly and see what it looks like.
 
-- 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my ted.mccormick@gmail.com OR same @protonmail.com, for the security conscious.
+- 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my first name dot last name @gmail.com OR same @protonmail.com, for the security conscious.
 
 - 😄 Pronouns: he/him/his
 
