@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
-- 🌱 I'm currently learning: Python and Django, C# and .Net/asp.net, Powershell (or as I call it, C--), and a little Node.js for good measure.
+- 🌱 I'm currently learning: Python and Django, C#, Wordpress, Powershell (or as I call it, C--), and a little Node.js for good measure.
 
 - 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. If you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
 
