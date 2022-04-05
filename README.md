@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">I'm a software developer and former Naval officer, currently working as a DevOps Engineer.</h3>
+<h3 align="center">I'm a DevOps/SRE/Infrastructure Engineer and former Naval officer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
