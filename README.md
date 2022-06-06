@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
 <h3 align="center">I'm a DevOps/SRE/Infrastructure Engineer and former Naval officer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
+![awscertifiedcloudpractitioner](https://user-images.githubusercontent.com/66527737/172085632-4f2a73e5-3e4b-46a0-95bf-d7fbdccbe147.png)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af4afb38-c817-461f-823f-64bf601f1dfb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
@@ -57,6 +57,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardmccormick&show_icons=true&locale=en" alt="edwardmccormick" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwardmccormick&" alt="edwardmccormick" /></p>
+
 
 
 <!--
