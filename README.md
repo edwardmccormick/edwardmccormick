@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ted</h1>
 <h3 align="center">I'm a DevOps/SRE/Infrastructure Engineer and former Naval officer.</h3>
-![awscertifiedcloudpractitioner](https://user-images.githubusercontent.com/66527737/172085835-170b5c58-465c-4112-8174-5d3370137e4f.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
@@ -28,6 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.credly.com/badges/af4afb38-c817-461f-823f-64bf601f1dfb/public_url" target="_blank"> <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="60" height="60" /> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
