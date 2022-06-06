@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af4afb38-c817-461f-823f-64bf601f1dfb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
 - 🌱 I'm currently learning: Python, C#, Wordpress, Powershell (or as I call it, C--), and a little Node.js for good measure. AWS, Docker, and Kubernetes.
