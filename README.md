@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardmccormick" alt="edwardmccormick" /></a> </p>
 
-<a href="https://www.credly.com/badges/af4afb38-c817-461f-823f-64bf601f1dfb/public_url" target="_blank"> <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="80" height="80" /> </a>
+<a href="https://www.credly.com/badges/af4afb38-c817-461f-823f-64bf601f1dfb/public_url" target="_blank"> <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="160" height="160" /> </a>
 
 - 🌱 I'm currently learning: Python, C#, Wordpress, Powershell (or as I call it, C--), and a little Node.js for good measure. AWS, Docker, and Kubernetes.
 
