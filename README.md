@@ -1,8 +1,8 @@
 
+
 <h1 align="center">Hi 👋, I'm Ted</h1>
 <h3 align="center">I'm a DevOps/SRE/Infrastructure Engineer and former Naval officer.</h3>
-
-![awscertifiedcloudpractitioner](https://user-images.githubusercontent.com/66527737/172085749-a72a2f05-02a9-4827-bffa-126c77c58ce5.png)
+![awscertifiedcloudpractitioner](https://user-images.githubusercontent.com/66527737/172085835-170b5c58-465c-4112-8174-5d3370137e4f.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardmccormick&label=Profile%20views&color=0e75b6&style=flat" alt="edwardmccormick" /> </p>
 
