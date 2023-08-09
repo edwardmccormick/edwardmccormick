@@ -9,13 +9,13 @@
 
 <a href="https://www.credly.com/badges/af4afb38-c817-461f-823f-64bf601f1dfb/public_url" target="_blank"> <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="160" height="160" /> </a>
 
-- 🌱 I'm currently learning: AWS, Docker, and Kubernetes
+- 🌱 I'm currently learning: AWS, Docker, Kubernetes, Cloudformation/CDK/IAC.
 
-- 👯 I’m looking to collaborate on - Pretty much anything? I'm looking to grow my portfolio, and I can help you with either full stack, front- or back-end concerns. If you want to go 'full-stack' (or need some help building out your full-stack app) shoot me an email and let's work on something.
+- 👯 I’m looking to collaborate on - helping someone see some better ways to handle a Lemmy instance, for example, or any other 'interesting idea with surprising uptime requirements.' Let's DevOpserize it. :infinity: :shipit:
 
-- 💬 Ask me about...pretty much anything you see here? I'm no guru, but I'm happy to help with JavaScript, Java, and any of the frameworks I've had some experience with (Bootstrap, JQuery, React, Springboot).
+- 💬 Ask me about...building, deploying, and maintaining your projects. Or any technology here - I tend to be a mile wide and an inch deep but I'm always willing to help.
 
-- 🔭 I’m currently working on a character builder/dice roller for DnD 5E. Orcpub is dead - long live Orcpub! https://github.com/edwardmccormick/d-and-deasy It's in pretty rough shape as a single-page app right now, but I'm going to take it full stack shortly and see what it looks like.
+- 🔭 I’m currently working on my personal website, fetchingly repositoried at https://github.com/edwardmccormick/vanity-website. It's vanilla, static HTML pages, so I made it serverless, but in the process I wanted to enable the 'contact me' functionality, so there's *also* a serverless API Gateway fronting an AWS Lambda hooked up to AWS Simple Email Service. And then, like a right proper DevOps, I created an automatic build and deploy pipeline, and I'm currently casting about for automated testing. Just wait until I blue/green this sucker (and I'm only, like, 65% kidding). It's not quite 'ready for primetime' but I've been putting a lot of work into it (I had no idea that the Bootstrap -> Tailwind conversion would be so painful). Overall, it works like it was put together by a boot camp graduate and is styled like a mid-career DevOps did it. 😉😆
 
 - 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my first name dot last name @gmail.com OR same @protonmail.com, for the security conscious.
 
