@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning: AWS, Docker, Kubernetes, Cloudformation/CDK/IAC.
 
-- 👯 I’m looking to collaborate on - helping someone see some better ways to handle a Lemmy instance, for example, or any other 'interesting idea with surprising uptime requirements.' Let's DevOpserize it. :infinity: :shipit:
+- 👯 I’m looking to collaborate on - any technology here, but especially any project where you're needing more robust capabilities or uptime. A good example that I've been thinking about a lot: helping someone see some better ways to handle a Lemmy instance, for example, or any other 'interesting idea with surprising uptime requirements.' Let's DevOpserize it. :infinity: :shipit:
 
 - 💬 Ask me about...building, deploying, and maintaining your projects. Or any technology here - I tend to be a mile wide and an inch deep but I'm always willing to help.
 
