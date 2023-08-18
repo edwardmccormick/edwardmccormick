@@ -9,7 +9,7 @@
 
 <a href="https://www.credly.com/badges/af4afb38-c817-461f-823f-64bf601f1dfb/public_url" target="_blank"> <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="160" height="160" /> </a>
 
-- 🌱 I'm currently learning: AWS, Docker, Kubernetes, Cloudformation/CDK/IAC.
+- 🌱 I'm currently learning: AWS, Docker, Kubernetes, Cloudformation/CDK/IAC/Terraform.
 
 - 👯 I’m looking to collaborate on - any technology here, but especially any project where you're needing more robust capabilities or uptime. A good example that I've been thinking about a lot: helping someone see some better ways to handle a Lemmy instance, for example, or any other 'interesting idea with surprising uptime requirements.' Let's DevOpserize it. :infinity: :shipit:
 
