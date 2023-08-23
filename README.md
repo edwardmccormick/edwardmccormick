@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on my personal website, fetchingly repositoried at https://github.com/edwardmccormick/vanity-website. It's vanilla, static HTML pages, so I made it serverless, but in the process I wanted to enable the 'contact me' functionality, so there's *also* a serverless API Gateway fronting an AWS Lambda hooked up to AWS Simple Email Service. And then, like a right proper DevOps, I created an automatic build and deploy pipeline, and I'm currently casting about for automated testing. Just wait until I blue/green this sucker (and I'm only, like, 65% kidding). It's not quite 'ready for primetime' but I've been putting a lot of work into it (I had no idea that the Bootstrap -> Tailwind conversion would be so painful). Overall, it works like it was put together by a boot camp graduate and is styled like a mid-career DevOps did it. 😉😆
 
-- 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my first name dot last name @gmail.com OR same @protonmail.com, for the security conscious.
+- 📫 How to reach me: www.linkedin.com/in/ted-mccormick or my first name dot last name @gmail.com OR same @protonmail.com, for the security conscious. For those willing to embrace the nostalgia: tedmccormick@aol.com
 
 - 😄 Pronouns: he/him/his
 
