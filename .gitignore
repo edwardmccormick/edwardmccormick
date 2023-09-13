@@ -1,0 +1,7 @@
+.idea/*
+*.iml
+.DS_STORE
+js/keys.js
+node_modules/*
+*.zip
+venv/*
