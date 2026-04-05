@@ -19,8 +19,8 @@ I’m particularly interested in deterministic testing, shift-left quality, inci
 AWS, Azure, Kubernetes, Terraform, Helm, ArgoCD, GitHub Actions, Azure DevOps, PowerShell, Bash, Python, TypeScript, SQL
 
 ### Elsewhere
-- LinkedIn: www.linkedin.com/in/ted-mccormick
-- Website: ted.mccormickhub.com
+- LinkedIn: [www.linkedin.com/in/ted-mccormick](https://www.linkedin.com/in/ted-mccormick)
+- Website: [ted.mccormickhub.com](https://www.ted.mccormickhub.com)
 
 ---
 Dad jokes available upon request. Movie quotes unavoidable.
