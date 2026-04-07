@@ -16,7 +16,7 @@ I’m particularly interested in deterministic testing, shift-left quality, inci
 - Testability and modernization
 
 ### Tooling I use often
-AWS, Azure, Kubernetes, Terraform, Helm, ArgoCD, GitHub Actions, Azure DevOps, PowerShell, Bash, Python, TypeScript, SQL
+AWS, Azure, Kubernetes, Terraform, Helm, ArgoCD, GitHub Actions, Azure DevOps, PowerShell, Bash, Python, Go, TypeScript, SQL
 
 ### Elsewhere
 - LinkedIn: [www.linkedin.com/in/ted-mccormick](https://www.linkedin.com/in/ted-mccormick)
